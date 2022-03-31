@@ -1,0 +1,9 @@
+F = int(input())
+H = int(input())
+R = float(input())
+
+
+SA = H*R
+
+print ("NUMBER = {}".format(F))
+print ("SALARY = U$ %.2f"%SA)
